@@ -24,7 +24,7 @@ public class Sketch extends PApplet {
    */
   public void draw() {
 
-    // Adjust width and height settings
+    // Adjust width and height 
     float width = 500;
     float height = 500;
 
