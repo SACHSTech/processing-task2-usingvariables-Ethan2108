@@ -28,6 +28,10 @@ public class Sketch extends PApplet {
     float width = 500;
     float height = 500;
 
+    // Scaling
+    float scaleWidth = width / 500;
+    float scaleHeight = height / 500;
+    
     // Sun
     fill(246, 255, 0);
     ellipse(460, 50, 150, 150);
