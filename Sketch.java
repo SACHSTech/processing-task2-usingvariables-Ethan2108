@@ -25,8 +25,8 @@ public class Sketch extends PApplet {
   public void draw() {
 
     //Scaled Width and Height
-    int sizeAdjustedWidth = width / 500;
-    int sizeAdjustedHeight = height / 500;
+    float sizeAdjustedWidth = width / 500;
+    float sizeAdjustedHeight = height / 500;
     
     // Sun
     stroke(0);
