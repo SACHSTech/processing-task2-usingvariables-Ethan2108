@@ -32,13 +32,15 @@ public class Sketch extends PApplet {
     rect(120, 240, 220, 220);
     fill(222, 222, 222);
 
-  // Windows
+  // Window 1
     rect(130, 290, 50, 50);
     fill(222, 222, 222);
 
+  // Window 2
     rect(200, 290, 50, 50);
     fill(222, 222, 222);
 
+  // Window 3
     rect(270, 290, 50, 50);
     fill(8, 242, 0);
 
